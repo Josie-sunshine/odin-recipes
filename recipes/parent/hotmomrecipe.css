@@ -1,0 +1,10 @@
+h1 {
+font-weight: bolder;
+}
+h1 span{
+background-color: wheat;
+}
+
+h2 span{
+    color:turquoise;
+}

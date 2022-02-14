@@ -1,0 +1,17 @@
+.button {
+    background-color: rgb(179, 113, 223);
+    color: rgb(193, 206, 218);
+    display: inline-block;
+    padding: 15px, 32px;
+    text-align: center;
+    -webkit-border-radius: 28; 
+    -moz-border-radius: 28;  
+    border-radius: 28px;
+text-shadow: 3px 2px 1px #9daef5; 
+-webkit-box-shadow: 6px 5px 24px #666666;  
+-moz-box-shadow: 6px 5px 24px #666666; 
+ box-shadow: 6px 5px 24px #666666;
+font-family: Arial;  
+font-size: 27px;  
+padding: 19px;  text-decoration: none;
+}
